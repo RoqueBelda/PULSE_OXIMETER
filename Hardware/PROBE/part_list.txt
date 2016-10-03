@@ -1,0 +1,20 @@
+Partlist
+
+Exported from probe.sch at 03/10/2016 13:27
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part       Value          Device     Package      Library       Sheet
+
+GND                       SMD2       SMD1,27-2,54 wirepad       1
+IR                        SMD2       SMD1,27-2,54 wirepad       1
+IR_                       LED_E      LED_1206     eagle-ltspice 1
+IR_COMMON                 SMD2       SMD1,27-2,54 wirepad       1
+OUTPUT                    SMD2       SMD1,27-2,54 wirepad       1
+RED                       SMD2       SMD1,27-2,54 wirepad       1
+RED_                      LED_E      LED_1206     eagle-ltspice 1
+RED_COMMON                SMD2       SMD1,27-2,54 wirepad       1
+U$1        OPT101         OPT101     SO8          zetex         1
+VCC                       SMD2       SMD1,27-2,54 wirepad       1

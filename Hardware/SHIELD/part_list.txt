@@ -1,0 +1,47 @@
+Partlist
+
+Exported from PULSE_OXIMETER_SHIELD.sch at 03/10/2016 13:07
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value                 Device                Package          Library                 Sheet
+
++12V                           JP1E                  JP1              jumper                  1
+C1       10u                   CPOL-EUE2.5-6         E2,5-6           resistor                1
+C2       100u                  CPOL-EUE2.5-6         E2,5-6           resistor                1
+C9       10u                   CPOL-EUE2.5-6         E2,5-6           resistor                1
+C10      1u                    CPOL-EUE2.5-6         E2,5-6           resistor                1
+C11      10u                   CPOL-EUE2.5-6         E2,5-6           resistor                1
+C12      1u                    CPOL-EUE2.5-6         E2,5-6           resistor                1
+C14      220u                  CPOL-EUE3.5-8         E3,5-8           resistor                1
+C15      220u                  CPOL-EUE3.5-8         E3,5-8           resistor                1
+C16      1u                    CPOL-EUE2.5-6         E2,5-6           resistor                1
+C17      1u                    CPOL-EUE2.5-6         E2,5-6           resistor                1
+D1       1N4148                1N4148                DO35-10          diode (2)               1
+IC2      LM358                 LM358                 DIP08            SparkFun-AnalogIC       1
+J1       ARDUINO_SHIELDNO_SILK ARDUINO_SHIELDNO_SILK DUEMILANOVE_VIAS SparkFun-Boards         1
+J2       182-009-213R          182-009-213R          182-009-213R     con-subd (2)            1
+Q1       BS250                 BS250                 SOT54E           transistor-small-signal 1
+Q2       BS250                 BS250                 SOT54E           transistor-small-signal 1
+R1       70                    R-EU_0204/5           0204/5           rcl                     1
+R2       1K                    R-EU_0204/5           0204/5           rcl                     1
+R3       1K                    R-EU_0204/5           0204/5           rcl                     1
+R4       10                    R-EU_0204/5           0204/5           rcl                     1
+R5       1K                    R-EU_0204/5           0204/5           rcl                     1
+R6       22K                   R-EU_0204/5           0204/5           rcl                     1
+R7       5.1K                  R-EU_0204/5           0204/5           rcl                     1
+R8       51K                   R-EU_0204/5           0204/5           rcl                     1
+R9       22K                   R-EU_0204/5           0204/5           rcl                     1
+R10      5.1K                  R-EU_0204/5           0204/5           rcl                     1
+R11      51K                   R-EU_0204/5           0204/5           rcl                     1
+R12      240                   R-EU_0204/5           0204/5           rcl                     1
+R13      10                    R-EU_0204/5           0204/5           rcl                     1
+R14      240                   R-EU_0204/5           0204/5           rcl                     1
+R15      1K                    R-EU_0204/5           0204/5           rcl                     1
+R16      1K                    R-EU_0204/5           0204/5           rcl                     1
+U$1      LT3092                LT3092                SOT223           transistor-npn          1
+U$2      UA78M05               UA78M05               SOT223           transistor-npn          1
+U$3      UA79M05               UA79M05               TO263-3          lm1084-adj-to263        1
+U$4      LT3092                LT3092                SOT223           transistor-npn          1
